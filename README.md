@@ -1,6 +1,6 @@
-# OS X Mojave on Lenovo ThinkPad T430 (Intel HD Graphics)
+# OS X Mojave 10.14.5 on Lenovo ThinkPad T430 (Intel HD Graphics)
 
-Tested on this Thinkpad :
+MacOS 10.14.5 Tested on this Thinkpad :
 
 * CPU : I5-3320M
 * GPU : Intel HD Graphics 4000 Mobile
@@ -9,5 +9,30 @@ Tested on this Thinkpad :
 * Bios : Ver 2.79 (2019-02-19)
 * Screen : 1366x768
 
+Working :
+
+- CPU HW Monitor
+- GPU (Intel HD)
+- Fully gesture touchpad 
+- Audio 
+- Keyboard with backlit 
+- Battery Status
+- Webcam
+- USB 3.0 Full Speed
+- Sleep 
+- Ethernet 
+- Bluetooth 
+- Media Key
 
 
+Not Working :
+
+- Wifi (because i use Intel Wireless Card) 
+- Brightness 
+- VGA Port
+
+Not Tested :
+
+- DisplayPort
+- Wifi with Atheros Card
+- SD Card
