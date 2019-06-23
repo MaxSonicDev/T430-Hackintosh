@@ -1,6 +1,6 @@
 # OS X Mojave 10.14.5 on Lenovo ThinkPad T430 (Intel HD Graphics)
 
-ThinkPad used : 
+ThinkPad used: 
 * CPU: I5-3320M
 * GPU: Intel HD Graphics 4000 Mobile
 * RAM: 12 GB DDR3
@@ -9,7 +9,7 @@ ThinkPad used :
 * Screen: 1366x768
 
 
-Working :
+Working:
 
 - CPU HW Monitor
 - GPU (Intel HD)
@@ -25,13 +25,13 @@ Working :
 - Media Key
 
 
-Not Working :
+Not Working:
 
 - Wifi (because i use Intel Wireless Card) 
 - Brightness 
 - VGA Port
 
-Not Tested :
+Not Tested:
 
 - DisplayPort
 - Wifi with Atheros Card
